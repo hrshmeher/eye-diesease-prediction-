@@ -1,0 +1,2 @@
+python DiseaseDetection.py
+pause
