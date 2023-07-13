@@ -1,5 +1,6 @@
-# Eye-Diesease-Prediction
+# Eye-Disease-Prediction
 Over past few months i was working on this project "AUTOMATIC DETECTION OF GENETIC DISEASES USING PUPILOMETRY"
+
 Pupillometry is the measurement of changes in pupil size in response to various stimuli. It is a technique that uses a specialized camera to capture images of the eye and analyze the changes in pupil size. These changes can provide valuable information about the functioning of the autonomic nervous system, which can be affected by genetic diseases.
 
 Two distinct Support Vector Machines (SVMs), one for each eye, classify the features extracted from the pupil-o-metric data. 
